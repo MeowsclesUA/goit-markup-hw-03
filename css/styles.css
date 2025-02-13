@@ -115,7 +115,8 @@ img {
 .first-section {
     background-color: #2e2f42;
     margin-top: 0;
-    padding: 188px 0 188px;
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 
 .first-section-paragraph {
@@ -129,7 +130,8 @@ img {
     display: block;
     max-width: 496px;
     min-height: 120px;
-    padding: 188px 0 188px;
+    margin-left: 316px;
+    padding-bottom: 48px;
 }
 
 .btn {
@@ -144,9 +146,9 @@ img {
     min-width: 169px;
     height: 56px;
     display: block;
-    margin: 48px 479px 188px 480px;
     border: none;
     border-radius: 4px;
+    margin-left: 480px;
 }
 .btn:hover,
 .btn:focus {
@@ -186,7 +188,7 @@ img {
 
 .third-section {
     background-color: #F4F4FD;
-    padding: 120px 0 120px;
+    padding-top: 120px
 }
 
 .third-section-title {
@@ -296,6 +298,7 @@ img {
 }
 .footer-container {
     align-items: center;
+    padding-right: 864px;
 }
 
 .footer-logo {
