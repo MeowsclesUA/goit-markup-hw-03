@@ -35,10 +35,7 @@ img {
     padding: 0 15px;
     margin: 0 auto;
 }
-.section {
-    margin-top: 120px;
-    margin-bottom: 120px;
-}
+
 .header-container {
     display: flex;
     align-items: center;
@@ -118,6 +115,7 @@ img {
 .first-section {
     background-color: #2e2f42;
     margin-top: 0;
+    padding: 188px 0 188px;
 }
 
 .first-section-paragraph {
@@ -207,11 +205,12 @@ img {
     display: flex;
     gap: 24px;
     padding-bottom: 120px;
-    border-radius: 0 0 4px 4px;
+    
 }
 
 .third-section-item {
     background-color: #FFFFFF;
+    border-radius: 0 0 4px 4px;
 }
 
 .third-section-img {}
